@@ -11,7 +11,7 @@ In the 'index.html' file, I have included divsions related to pizza slices and f
 ## In future, planning to execute the following features:
 
 - Users can decide how many slices they wish for.
-- Users can add their own toppings for the pizza.
+- Users can see the animation of the toppings being added that they opted for.
 
 
 ## Applications:
@@ -21,5 +21,7 @@ This feature can be collaborated with various food apps like Eatsure, Dominos, Z
 
 - https://shiny-haupia-a674e6.netlify.app/
 
-
-
+\
+-Developed by:\
+Manasvi Das\
+RA2111003010708
