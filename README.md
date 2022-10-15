@@ -1,7 +1,10 @@
    # RUDRA-PIZZA-CURATION
+![image](https://user-images.githubusercontent.com/91024452/195990673-6f5ca6ad-9c5c-4a95-b910-a95bf1d40f66.png)
 
-This Website is a fun activity for the user to curate their own pizza.
-So basically when this website is presented to the users, they have the feature to decorate their own pizza.
+## Intro
+Everybody likes a pizza, don't you? Being a foodie myself I decided to work on something related to it.Pizza is a kind of food belonging to the Eastern Mediterranean countries such as Greece and Turkey, where they cooked a layer of dough on a hot stone and covered with different kinds of ingredients such as meat and vegetables, and then taken Italian soldiers transported the recipe to Italy with the addition of tomato sauce and mozzarella cheese.\
+\
+This Website is a fun activity for the user to curate their own pizza. So basically when this website is presented to the users, they have the feature to decorate their own pizza.
 Its kind of a fun activity.
 
 ## Explanation
