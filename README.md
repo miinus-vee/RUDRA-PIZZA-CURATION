@@ -1,4 +1,4 @@
-   # RUDRA-PIZZA-CURATION
+   # PIZZA ON PAGE
 ![image](https://user-images.githubusercontent.com/91024452/195990673-6f5ca6ad-9c5c-4a95-b910-a95bf1d40f66.png)
 
 ## Intro
